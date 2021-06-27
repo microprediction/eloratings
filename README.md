@@ -1,2 +1,3 @@
 # eloratings
-Elo ratings
+
+Just basic Elo ... for now. 
