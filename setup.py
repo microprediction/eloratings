@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="eloratings",
-    version="0.0.1",
+    version="0.0.2",
     description="Basic Elo Rating calculations",
     long_description=README,
     long_description_content_type="text/markdown",
